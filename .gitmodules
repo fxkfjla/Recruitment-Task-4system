@@ -1,0 +1,6 @@
+[submodule "Recruitment-Task-Back"]
+	path = Recruitment-Task-Back
+	url = https://github.com/fxkfjla/Recruitment-Task-Back
+[submodule "Recruitment-Task-Front"]
+	path = Recruitment-Task-Front
+	url = https://github.com/fxkfjla/Recruitment-Task-Front
